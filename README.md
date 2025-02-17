@@ -29,4 +29,5 @@ ___
 * Learn how to train an AI that copies successful playing strategies from these datasets
 The goal is to teach an AI to make good decisions by learning from examples of past gameplay, just like how you might learn to play a game by watching someone else play!
 ___
-## task 1: create dataset
+### task 1: create dataset
+### task 2:  Train-Test-Validation Split
