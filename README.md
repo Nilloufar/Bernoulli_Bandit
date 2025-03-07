@@ -31,3 +31,4 @@ The goal is to teach an AI to make good decisions by learning from examples of p
 ___
 ### task 1: create dataset
 ### task 2:  Train-Test-Validation Split
+### task 3:  Train a Simple Behavioral Cloning Model
