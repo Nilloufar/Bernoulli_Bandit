@@ -38,7 +38,7 @@ Behavioral cloning is a form of imitation learning where an agent learns to perf
    - Evaluate the trained model on the test set (`X_test`, `y_test`).
    - Report the final performance metrics.
 
-7. **Behavior Cloning:run the Environment for 10 Episodes:**
+7. **Behavior Cloning:run the Environment for 1000 Episodes:**
 
    - For each episode:
      - Reset the environment.
@@ -47,6 +47,6 @@ Behavioral cloning is a form of imitation learning where an agent learns to perf
      - Calculate the total reward for the episode.
      - Print the total reward for each episode.
 8. **Compare:**
-    - Compare the performance of the behavioral cloning model with the behavioral policy (policy that the data is obtained from) in terms of total rewards obtained.
+    - Compare the performance of the behavioral cloning model with the behavioral policy (policy that the data is obtained from) in terms of mean rewards obtained.
 
 
